@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="environment" />
+      <item value="application Event Multicaster" />
+      <item value="Message Source" />
+      <item value="Bean Factory" />
+      <item value="basic Publish" />
+      <item value="the exchange to publish the message to" />
+      <item value="Channel" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1614260334591" />
+  </component>
+</application>
