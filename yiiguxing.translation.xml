@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="代理" />
+      <item value="Assert that this context's BeanFactory is currently active, throwing an {@link IllegalStateException} if it isn't. &lt;p&gt;Invoked by all {@link BeanFactory} delegation methods that depend on an active context, i.e. in particular all bean accessor methods. &lt;p&gt;The default implementation checks the {@link isActive() 'active'} status of this context overall. May be overridden for more specific checks, or for a no-op if {@link getBeanFactory()} itself throws an exception in such a case." />
+      <item value="delegation" />
+      <item value="environment" />
+      <item value="application Event Multicaster" />
+      <item value="Message Source" />
+      <item value="Bean Factory" />
+      <item value="basic Publish" />
+      <item value="the exchange to publish the message to" />
+      <item value="Channel" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="10" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1614260334591" />
+  </component>
+</application>
