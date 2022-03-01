@@ -6,6 +6,7 @@
       <mapping pattern="20220228" type="AUTO_DETECTED" />
       <mapping pattern="20220222" type="AUTO_DETECTED" />
       <mapping pattern="20220224" type="AUTO_DETECTED" />
+      <mapping pattern="20220301" type="AUTO_DETECTED" />
       <mapping pattern="20220225_todo" type="AUTO_DETECTED" />
       <mapping pattern="Q" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
