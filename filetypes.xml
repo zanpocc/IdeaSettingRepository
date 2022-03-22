@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="20220322" type="AUTO_DETECTED" />
       <mapping pattern="hotspot_compiler" type="AUTO_DETECTED" />
       <mapping pattern="20220307" type="AUTO_DETECTED" />
       <mapping pattern="20220224total" type="AUTO_DETECTED" />
