@@ -13,6 +13,7 @@
       <mapping pattern="20220303" type="AUTO_DETECTED" />
       <mapping pattern="20220301" type="AUTO_DETECTED" />
       <mapping pattern="20220309" type="AUTO_DETECTED" />
+      <mapping pattern="20220324" type="AUTO_DETECTED" />
       <mapping pattern="20220225_todo" type="AUTO_DETECTED" />
       <mapping pattern="Q" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
