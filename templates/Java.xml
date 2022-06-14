@@ -7,12 +7,4 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="/d" value="/**&#10; * $METHOD_NAME$&#10; *&#10; * @param $METHOD_PARAMS$&#10; * @return $RETURN_VALUE$&#10; */" description="java doc文档注释" toReformat="true" toShortenFQNames="true">
-    <variable name="RETURN_VALUE" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
-    <variable name="METHOD_PARAMS" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
 </templateSet>
